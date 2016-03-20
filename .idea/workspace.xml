@@ -1,7 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67c7a463-69c4-4060-a0b5-289806475157" name="Default" comment="" />
+    <list default="true" id="67c7a463-69c4-4060-a0b5-289806475157" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ClionProjects/Project/wellman/random_functions.cpp" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ClionProjects/Project/wellman/random_functions.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/floobits/share/jeffschulthies/CSCI2461_SearchEngine/post-processing/search.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/floobits/share/jeffschulthies/CSCI2461_SearchEngine/post-processing/search.h" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/DCPlanner/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/DCPlanner/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/.project" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/FinalProject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/dataanalyzer.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/FileManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/MainFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/itinerary/Itinerary.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/itinerary/ItineraryInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/itinerary/ItineraryIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/itinerary/ItineraryIteratorInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/itinerary/Node.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/itinerary/NodeInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/location/Activity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/location/ActivityInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/location/Location.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/location/LocationInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/location/Restaurant.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/location/RestaurantInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/user/Admin.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/user/AdminInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/user/RegUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/user/RegUserInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/user/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/main/user/UserInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/src/test/test.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/Data/JsonReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/Data/http.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/FileSystem/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/FileManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/MainFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/itinerary/Itinerary.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/itinerary/ItineraryInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/itinerary/ItineraryIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/itinerary/ItineraryIteratorInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/itinerary/Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/itinerary/NodeInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/location/Activity.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/location/ActivityInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/location/Location.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/location/LocationInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/location/Restaurant.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/location/RestaurantInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/user/Admin.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/user/AdminInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/user/RegUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/user/RegUserInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/user/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/main/user/UserInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/classes/wrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/target/test-classes/test/test.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/unfinished/bin/FileManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/unfinished/bin/Form.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/unfinished/bin/MainFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/JavaProject-master/unfinished/bin/gui.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/dataSources.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/Playground.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/src/com/JeffSchulthies/FirstExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Playground/src/com/JeffSchulthies/course.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/libraries/Maven__org_jsoup_jsoup_1_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/libraries/Maven__org_testng_testng_6_8_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/20150414-Bipartisan Senate deal reached on Iran bill, chairman says - LA Times.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/20150414-Four Blackwater guards sentenced in Iraq shootings of 31 unarmed civilians.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/20150414-Republican letter to Iran intensifies dispute with White House.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/20150414-Rubio betting that voters are ready to again take a chance on a young senator.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/TeslaChallangeProject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/DataWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/fileio/FileOutput.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/parser/ArticleBody.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/parser/ArticleHeadline.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/parser/ArticleLinks.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/parser/Homepage.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/parser/Parser.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/main/java/data/retrieval/RetrievePage.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/fileio/FileOutputTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/parser/ArticleBodyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/parser/ArticleHeadlineTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/parser/ArticleLinksTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/parser/HomepageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/parser/ParserTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/src/test/data/retrieval/RetrievePageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/DataWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/fileio/FileOutput.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/parser/ArticleBody.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/parser/ArticleHeadline.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/parser/ArticleLinks.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/parser/Homepage.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/parser/Parser.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/classes/data/retrieval/RetrievePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/fileio/FileOutputTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/parser/ArticleBodyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/parser/ArticleHeadlineTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/parser/ArticleLinksTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/parser/HomepageTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/parser/ParserTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/TeslaChallengeProject/target/test-classes/data/retrieval/RetrievePageTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/FinalProject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Form.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Admin.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/ArrayTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/Admin.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/ArrayTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/Course.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/Instructor.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Course/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Instructor.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CSCI-1112-HW1-V2/out/production/CSCI 1112 HW1 V2/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/Admin.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/ArrayTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/Course.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/Instructor.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/floobits/share/zachm1995/CourseRegistration/out/production/CourseRegistration/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/gui.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/jeffsrc/src/main/java/old/FileSystem/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/jeffsrc/src/main/java/old/JsonReader.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/jeffsrc/src/main/java/old/http.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/jeffsrc/src/main/java/wrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/FileManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/MainFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/itinerary/Itinerary.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/itinerary/ItineraryInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/itinerary/ItineraryIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/itinerary/ItineraryIteratorInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/itinerary/Node.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/itinerary/NodeInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/location/Activity.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/location/ActivityInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/location/Location.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/location/LocationInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/location/Restaurant.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/location/RestaurantInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/user/Admin.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/user/AdminInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/user/RegUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/user/RegUserInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/user/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/src/user/UserInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/classes/Data/JsonReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/classes/Data/http.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/classes/FileSystem/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/target/classes/wrapper.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/CourseRegistration/.idea/dataSources.xml" afterPath="$USER_HOME$/IdeaProjects/CourseRegistration/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/CourseRegistration/src/com/users/Admin.java" afterPath="$USER_HOME$/IdeaProjects/CourseRegistration/src/com/users/Admin.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/CourseRegistration/src/com/users/Instructor.java" afterPath="$USER_HOME$/IdeaProjects/CourseRegistration/src/com/users/Instructor.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/CourseRegistration/src/com/users/User.java" afterPath="$USER_HOME$/IdeaProjects/CourseRegistration/src/com/users/User.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/find.recents.xml" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/find.recents.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/git.xml" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/git.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/security.xml" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/security.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/systemNotifications.xml" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea14/options/systemNotifications.xml" />
+    </list>
     <ignored path="CapMac.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +207,12 @@
     <favorites_list name="CapMac" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -35,17 +222,57 @@
         <entry file="file://$PROJECT_DIR$/bin/www">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.040983606">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,6 +287,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bin/www" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/views/index.hbs" />
       </list>
     </option>
   </component>
@@ -71,7 +300,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
+    <option name="x" value="23" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="877" />
@@ -102,6 +331,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -120,9 +350,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapMac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapMac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapMac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapMac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapMac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapMac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,6 +428,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -195,26 +471,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1400" height="877" extended-state="0" />
-    <editor active="false" />
+    <frame x="23" y="23" width="1400" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -237,7 +513,7 @@
     <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -246,6 +522,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040983606">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
           <folding />
         </state>
       </provider>
